@@ -1,2 +1,7 @@
-# hello
-first data
+<?
+class  fist{
+  function ceshi(){
+  echo '1132';
+  }
+}
+?>
